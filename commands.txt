@@ -1,0 +1,7 @@
+git config --list-list git
+
+git config --global user.name "username"-create username
+
+git config --global usernemail "email"
+
+git init-initialize the empty git
