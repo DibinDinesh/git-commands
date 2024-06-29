@@ -5,3 +5,7 @@ git config --global user.name "username"-create username
 git config --global usernemail "email"
 
 git init-initialize the empty git
+
+git add -A 
+
+git commit -m "initial commit" 
